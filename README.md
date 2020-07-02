@@ -1,9 +1,7 @@
 # nEEGlace
-This is the project repository for the: nEEGlace
+This is the project repository for the: nEEGlace - a mounting system for EEG hardware for mobile ear-EEG recordings. 
 
-# nEEGlace
 
-A neck holder for mobile ear-EEG recordings. 
 
 | nEEGlace |
 |--------|
