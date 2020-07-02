@@ -6,7 +6,7 @@
 ## nEEGlace
 This is the project repository for the: **nEEGlace - a mounting system for EEG hardware for mobile ear-EEG recordings**
 
-Hardware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20S-orange.svg)](https://github.com/mgbleichner/nEEGlace/blob/master/LICENSE)  
+Hardware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20P-orange.svg)](https://github.com/mgbleichner/nEEGlace/blob/master/LICENSE)  
 
 | nEEGlace |
 |--------|
