@@ -193,7 +193,7 @@ This allows us to position the cables in the neck piece.
 
 | Add connectors|
 |--------|
-|![Add connectors](./img/Panel_connecting_connectors.png  "Add connectors")*Add connectors*|
+|![Add connectors](./img/Panel_connecting_connectors.png  "Add connectors")*Added cEEGrid connectors*|
 
 
 
