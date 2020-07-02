@@ -1,4 +1,7 @@
 |![nEEGlace](./img/nEEGlace.png)
+<div>
+<img src="./img/nEEGlace.png" width="50%">
+</div>
 # nEEGlace
 This is the project repository for the: nEEGlace - a mounting system for EEG hardware for mobile ear-EEG recordings. 
 
