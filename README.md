@@ -2,9 +2,8 @@
 <div>
 <img src="./img/nEEGlace.png" width="25%">
 </div>
-# nEEGlace
+## nEEGlace
 This is the project repository for the: nEEGlace - a mounting system for EEG hardware for mobile ear-EEG recordings. 
-
 
 
 | nEEGlace |
