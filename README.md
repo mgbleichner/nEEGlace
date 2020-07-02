@@ -1,3 +1,4 @@
+|![nEEGlace](./img/nEEGlace.png)
 # nEEGlace
 This is the project repository for the: nEEGlace - a mounting system for EEG hardware for mobile ear-EEG recordings. 
 
