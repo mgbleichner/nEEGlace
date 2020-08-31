@@ -1,0 +1,29 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=smarting mit logo
+*Date=10:13:51
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;3.26305;-9.25406;0;Bottom;Hole2
+2;;;20.863;-20.0542;0;Bottom;Pad2
+3;;;20.863;-6.05403;0;Bottom;Pad9
+4;;;20.863;-10.0543;0;Bottom;Pad7
+5;;;20.863;-14.0542;0;Bottom;Pad5
+6;;;20.863;-12.0541;0;Bottom;Pad6
+7;;;21.4224;-12.9102;-90;Bottom;TXT1
+8;;;20.863;-18.0541;0;Bottom;Pad3
+9;;;20.863;-16.054;0;Bottom;Pad4
+10;;;20.863;-8.05414;0;Bottom;Pad8
+11;;;3.26305;-16.3542;0;Bottom;Hole1
+12;;THT;10.5661;-13.0742;0;Bottom;J1
+13;;;20.863;-4.05421;0;Bottom;Pad10
+14;;;20.863;-22.0541;0;Bottom;Pad1

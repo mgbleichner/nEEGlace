@@ -15,32 +15,32 @@ Hardware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20P-orange
 ## Components
 * Neckspeaker - JBL Soundgear BTA [https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html](https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html)
 * Smarting EEG Amplifier [https://mbraintrain.com/smarting/](https://mbraintrain.com/smarting/)
-* cEEGrid connectors [https://ceegrid.com/](https://ceegrid.com)
-* Jackplug
+* cEEGrid Connectors [https://ceegrid.com/](https://ceegrid.com)
+* Female Jack Plug Socket
 
-## The neck speaker
+## The Neck Speaker
 The neck speaker serves primarily as a comfortable to wear mount for the 
-amplifier and the connectors. In addition to that, it allows to present and record sound. 
-The original Bluetooth functionality and any control functionality of the neck speaker is lost, as all active electronic components are removed from the neck speaker. The amplifier is positioned where the battery was. 
+amplifier and the connectors. In addition to that, it allows to play and record sound. 
+The original Bluetooth functionality and any control functionality of the neck speaker is lost, as all active electronic components are removed from the neck speaker. The amplifier is positioned where the battery of the neck speaker was. 
 
-## Disassemble neck speaker 
+## Disassemble Neck Speaker 
 *  Remove mesh (A): The mesh material is clicked on the plastic part. The mesh material can be removed using a thin blade to lift it from the body. 
 *  Unbolt all screws (B).
 *  Remove the  metal plate in the middle (C).
-*  Carefully lift the left part of the lower part (D). There is a black glue at several locations,  that can be removed carefully. 
-*  Carefully lift the right part (E). The only thing that keeps the top and bottom part together is the micro USB connector.
+*  Carefully lift the left part of the body (D). There is black glue at several locations,  remove carefully. 
+*  Carefully lift the right part (E). The only thing that keeps the top part and body together is the micro USB connector.
 *  Unbolt the screw (F).
 *  Top (G-H) and bottom (I) parts are now detached from each other.
 
 
-| Disassembly of neck speaker |
+| Disassembly of Neck Speaker |
 |--------|
 |![Disassembly](./img/Panel_neckpiece_disassembly.png  "Disassembly of neck speaker")*Disassembly of neck speaker (A-I)*|
 
 
 
 
-### Cut the mesh
+### Cut the Mesh
 
 * Cut the mesh at the flexible joints (A - B).
 * The center part is not needed and is left open for the amplifier (C).
@@ -52,25 +52,25 @@ The original Bluetooth functionality and any control functionality of the neck s
 
 
 
-## Disassemble amplifier 
+## Disassemble Amplifier 
 * Remove the four grey plastic covers at the backside of the amplifier. 
 * Unbolt the four screws at the backside of the amplifier. 
 * Lift the backside from the amplifier. You find the amplifier board, the lithium battery and the connector (A). 
 * Lift the amplifier out of the plastic casing (B).
 
 
-`!!Do this at your own risk! If you do this, you will lose all manufacturer warranty! This may destroy your amplifier! The authors of this article are not responsible for any potential damage.`
+`!!Do this at your own risk! If you do this, you will lose all manufacturer warranty! This may destroy your amplifier! The authors of this article are not responsible for any potential damage!`
 
-* Before you unsolder the battery and the connector cable make sure that you know your cannel layout.
+* Before you unsolder the battery and the connector cable make sure that you know your channel layout.
 * Unsolder the battery and the connector cable (C).
 
-| Disassembly of amplifier |
+| Disassembly of Amplifier |
 |--------|
 |![Disassembly of amplifier](./img/Panel_open_amp.png  "Disassembly of amplifier")*Disassembly of amplifier (A-C)*|
 
-## Making room for amplifier casing
+## Making Room for Amplifier Casing
 The amplifier will be placed in the center of the neck speaker (I, silver), where the batteries were located.
-To make room for the amplifier casing part of the neck speaker casing needs to be removed.
+To make room for the amplifier casing, part of the neck speaker casing needs to be removed.
 For this, we used a rotary power tool (Dremel). 
 
 * Push the board as far as possible to the front edge of the neck piece (A, red arrow).
@@ -78,7 +78,7 @@ For this, we used a rotary power tool (Dremel).
 * Mark the area you want to cut out (B-D).
 
 
-| Preparing casing |
+| Prepare Casing |
 |--------|
 |![Preparing casing](./img/Panel_measuring.png  "Preparing casing")*Preparing casing. Make room for the amplifier, A) The amplifier board needs to fit. Push the board as far as possible to the front edge of the neck piece (red) arrow. Mark the left and right side. Add .5 cm on each side for the casing. B-D) Mark the area you want to cut out.*|
 
@@ -93,24 +93,24 @@ For this, we used a rotary power tool (Dremel).
 * Clean the cutting edge (D) and remove again all metal shavings.
 * The result is shown in figure X (A). 
 
-## Adjust Amplifier casing
+## Adjust Amplifier Casing
 The lower part of the amplifier will be glued to the 
 neck speaker and needs to be adapted to follow the curvature of the neck speaker.
 This part of the amplifier casing and the neck speaker should be large enough to fit the amplifier board. 
 * Mark the curvature of the neck speaker on the amplifier casing (B-C).
-* Cut the amplifier with a rotatory power tool (D).
+* Cut the amplifier with rotary power tool (D).
 * The part of the casing marked here with an white X (E) can be discarded.
 * There are a couple of plastic parts, inside the amplifier casing that need to be removed (F).
 
 
-| Adjust  amplifier casing|
+| Adjust  Amplifier Casing|
 |--------|
 |![Adjust  amplifier casing](./img/Panel2.png  "Adjust  amplifier casing")*Adjust the amplifier casing*|
 
 
 
 
-## Combine amplifier casing and neck speaker casing
+## Combine Amplifier Casing and Neck Speaker Casing
 The amplifier casing is glued onto the neck speaker. 
 * Remove all residual rubber  (A) to expose the bare metal (B).
 * Put the neck piece a bit higher (C).
@@ -120,36 +120,36 @@ The amplifier casing is glued onto the neck speaker.
 * Let dry for at least 12 hours. 
 * Turn the neck piece over and add another stripe of glue on the backside. 
 
-| Add casing|
+| Add Casing|
 |--------|
 |![Add casing](./img/Panel_add_casing.png  "Add casing")*Add casing*|
 
 
-## Adding the jack plug
+## Adding the Jack Plug Socket
 The neck speaker comes with Bluetooth. As the smarting amplifier communicates 
 with Bluetooth as well, and as two Bluetooth connecting to a single devices are 
 not possible, the neck speakers Bluetooth capabilities are removed.  
 Furthermore, we had to remove the battery of the neck speaker to make room for 
 the amplifier. To still be able to use the speaker and microphone functionality 
-we added a jackplug.
+we added a jack plug socket.
 
-### Making room for the jackplug
-The jackplug goes where the neck speakers micro USB connector was. 
-The area is large enough for a jackplug if you make the hole a bit larger (see pictures). 
+### Making Room for the Jack Plug Socket
+The jack plug socket goes where the neck speakers micro USB connector was. 
+The area is large enough for a jack plug socket if you make the hole a bit larger (see pictures). 
 
 * Remove the part of the plastic as indicated on (A) with pliers (B).
-* The resulting hole (C) is just large enough to put the jackplug through (D), for a snug fit.
+* The resulting hole (C) is just large enough to put the jack plug socket in (D), for a snug fit.
 
 
-| Making room for jackplug|
+| Making Room for Jack Plug Socket|
 |--------|
-|![Making room for jackplug](./img/Panel_Jackplug.png  "Making room for jackplug")*Making room for jackplug*|
+|![Making room for jack plug socket](./img/Panel_Jackplug.png  "Making room for jack plug socket")*Making room for jackplug*|
 
 
 
 
 
-### Remove original wiring of neck speaker
+### Remove Original Wiring of Neck Speaker
 * Remove all glue and foamed material (A - B).
 * Remove control unit (C).
 * Remove microphone (grey cable) on the right side (D).
@@ -159,28 +159,28 @@ The area is large enough for a jackplug if you make the hole a bit larger (see p
 * We end up with a red/black cable for the speakers and a grey cable for the microphone. 
 
 
-| Remove wiring|
+| Remove Wiring|
 |--------|
 |![Remove wiring](./img/Panel_remove_wiring.png  "Remove wiring")*Remove wiring*|
 
 
-### Connecting the jackplug
-* Prepare the speaker cable to connect to the jackplug and solder them like in the following picture:
+### Connecting the Jack Plug Socket
+* Prepare the speaker cable to connect to the jack plug socket and solder them like in the following picture:
 ### Prepare cEEGrid connectors
 The cEEGrid connector has been designed to fit into mini edge card sockets as 
 offered by [SAMTEC (MB1-120-01-L-S-01-SL-N)](https://www.samtec.com/products/mb1). 
-In combination with a small proprietary printed circuit board (BCB, shown below), 
+In combination with a small proprietary printed circuit board (PCB, shown below), 
 a flat-ribbon cable and touch-proof (or similar) connectors, cEEGrids can be 
 connected to most available EEG systems. To facilitate soldering and lower the 
 risk of bridges we recommend removing every second pin before assembling the connector.
 
 If you want to reproduce or modify our connector, visit the fritzing website. 
-[Download this file](http://ceegrid.com/download/smarting%20mit%20logo.fzz) for printing the PCB there.
+[Download this file](http://ceegrid.com/download/smarting%20mit%20logo.fzz) for printing the PCB there. Alternatively, you can find the PCB desings [here](./cEEGrid-Adapter) as Gerber file. 
 
 * In our setup, channels R04a and R04b (i.e. right cEEGrid) serve as DRL and ref electrodes (in general you are free to choose their location)
 
 
-### Solder connectors onto amplifier. 
+### Solder Connectors onto Amplifier. 
 The connector cables can be soldered onto either the front or the back of PCB board of the amplifier. 
 When you buy the smarting amplifier, the connector cables are on top. We place the cable from below. 
 This allows us to position the cables in the neck piece. 
@@ -191,7 +191,7 @@ This allows us to position the cables in the neck piece.
 * Place the newly connected amplifier into the casing (C).
 * Place the amp cover (D), and screw it on with the original screws (D).
 
-| Add connectors|
+| Add Connectors|
 |--------|
 |![Add connectors](./img/Panel_connecting_connectors.png  "Add connectors")*Added cEEGrid connectors*|
 
