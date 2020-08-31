@@ -12,6 +12,9 @@ Hardware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20P-orange
 |--------|
 |![nEEGlace](./img/panel_result.png  "nEEGlace")*The nEEGlace for beyond the lab ear-EEG recordings*|
 
+## Before you Start
+Before you start, read carefully through the entire document.  Be aware that you will lose all manufacturer warranty if you modify the devices as described below. 
+
 ## Components
 * Neckspeaker - JBL Soundgear BTA [https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html](https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html)
 * Smarting EEG Amplifier [https://mbraintrain.com/smarting/](https://mbraintrain.com/smarting/)
