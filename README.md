@@ -151,9 +151,6 @@ The area is large enough for a jack plug socket if you make the hole a bit large
 |![Making room for jack plug socket](./img/Panel_Jackplug.png  "Making room for jack plug socket")*Making room for jackplug*|
 
 
-
-
-
 ### Remove Original Wiring of Neck Speaker
 * Remove all glue and foamed material (A - B).
 * Remove control unit (C).
@@ -171,6 +168,7 @@ The area is large enough for a jack plug socket if you make the hole a bit large
 
 ### Connecting the Jack Plug Socket
 * Prepare the speaker cable to connect to the jack plug socket and solder them like in the following picture:
+
 ### Prepare cEEGrid connectors
 The cEEGrid connector has been designed to fit into mini edge card sockets as 
 offered by [SAMTEC (MB1-120-01-L-S-01-SL-N)](https://www.samtec.com/products/mb1). 
@@ -179,8 +177,15 @@ a flat-ribbon cable and touch-proof (or similar) connectors, cEEGrids can be
 connected to most available EEG systems. To facilitate soldering and lower the 
 risk of bridges we recommend removing every second pin before assembling the connector.
 
+
+
 If you want to reproduce or modify our connector, visit the fritzing website. 
 [Download this file](http://ceegrid.com/download/smarting%20mit%20logo.fzz) for printing the PCB there. Alternatively, you can find the PCB desings [here](./cEEGrid-Adapter) as Gerber file. 
+
+| Prepare Connectors|
+|--------|
+|![Prepare connectors](./img/cEEGridConnector.png  "Prepare Connectors")*Left: to lower the risk of bridges between channels, we recommend removing every second pin before assembling the conector. Right: The PCB and mini card sockets before and after assembly. *|
+
 
 * In our setup, channels R04a and R04b (i.e. right cEEGrid) serve as DRL and ref electrodes (in general you are free to choose their location)
 
