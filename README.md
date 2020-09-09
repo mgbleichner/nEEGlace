@@ -6,7 +6,7 @@
 ## nEEGlace
 This is the project repository for the: **nEEGlace - a mounting system for EEG hardware for mobile ear-EEG recordings**
 
-The nEEGlace is a system to record brain activity from electrodes located around the ears (cEEGrids). It is a combination of a commercial, research-grade EEG amplifier and a commercial neck speaker.  The system allows to conveniently record EEG over extended periods, and to play back sounds (e.g. for conducting studies on auditory neuroscience).
+The nEEGlace is a system to record brain activity from electrodes located around the ears (cEEGrids). It is a combination of a commercial, research-grade EEG amplifier and a commercial neck speaker.  The system allows to conveniently record EEG over extended periods, and to play back sounds (e.g. for conducting studies in the field of auditory neuroscience).
 
 Hardware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20P-orange.svg)](https://github.com/mgbleichner/nEEGlace/blob/master/LICENSE)  
 
@@ -184,7 +184,7 @@ If you want to reproduce or modify our connector, visit the fritzing website.
 
 | Prepare Connectors|
 |--------|
-|![Prepare connectors](./img/cEEGridConnector.png  "Prepare Connectors")*Left: to lower the risk of bridges between channels, we recommend removing every second pin before assembling the conector. Right: The PCB and mini card sockets before and after assembly. *|
+|![Prepare connectors](./img/cEEGridConnector.png  "Prepare Connectors")*Left: to lower the risk of bridges between channels, we recommend removing every second pin before assembling the conector. Right: The PCB and mini card sockets before and after assembly.*|
 
 
 * In our setup, channels R04a and R04b (i.e. right cEEGrid) serve as DRL and REF electrodes (in general you are free to choose their location)
