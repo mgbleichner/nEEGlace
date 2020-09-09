@@ -175,8 +175,8 @@ offered by [SAMTEC (MB1-120-01-L-S-01-SL-N)](https://www.samtec.com/products/mb1
 In combination with a small proprietary printed circuit board (PCB, shown below), 
 a flat-ribbon cable and touch-proof (or similar) connectors, cEEGrids can be 
 connected to most available EEG systems. To facilitate soldering and lower the 
-risk of bridges we recommend removing every second pin before assembling the connector.
-
+risk of bridges we recommend removing every second pin before assembling the connector. 
+Beginning with Pin 1, you have to remove every 2n pin from the connector (see below).
 
 
 If you want to reproduce or modify our connector, visit the fritzing website. 
@@ -187,7 +187,7 @@ If you want to reproduce or modify our connector, visit the fritzing website.
 |![Prepare connectors](./img/cEEGridConnector.png  "Prepare Connectors")*Left: to lower the risk of bridges between channels, we recommend removing every second pin before assembling the conector. Right: The PCB and mini card sockets before and after assembly. *|
 
 
-* In our setup, channels R04a and R04b (i.e. right cEEGrid) serve as DRL and ref electrodes (in general you are free to choose their location)
+* In our setup, channels R04a and R04b (i.e. right cEEGrid) serve as DRL and REF electrodes (in general you are free to choose their location)
 
 
 ### Solder Connectors onto Amplifier. 
