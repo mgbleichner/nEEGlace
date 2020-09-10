@@ -22,8 +22,10 @@ As also stated in the [SMARTING User Manual](https://mbraintrain.com/wp-content/
 ## Components
 * Neckspeaker - JBL Soundgear BTA [https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html](https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html)
 * Smarting EEG Amplifier [https://mbraintrain.com/smarting/](https://mbraintrain.com/smarting/)
-* cEEGrid Connectors [https://ceegrid.com/](https://ceegrid.com)
+* cEEGrid Connectors [https://ceegrid.com/how-to-connect](http://ceegrid.com/home/how-to-connect/)
 * Female Jack Plug Socket
+
+The cEEGlace is intended to be used with cEEGrids the are available for example [here](https://shop.tmsi.com/product/ceegrid).
 
 ## The Neck Speaker
 The neck speaker serves primarily as a comfortable to wear mount for the 
