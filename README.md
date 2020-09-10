@@ -17,7 +17,7 @@ Hardware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20P-orange
 ## Before you Start
 Before you start, read carefully through the entire document.  Be aware that you will lose all manufacturer warranty if you modify the devices as described below. 
 
-As also stated in the SMARTING manual: Do not use the amplifier (i.e. the nEEGlace) while charging! 
+As also stated in the [SMARTING User Manual](https://mbraintrain.com/wp-content/uploads/2016/08/SMARTING-User-Manual.pdf): Do not use the amplifier (i.e. the nEEGlace) while charging! 
 
 ## Components
 * Neckspeaker - JBL Soundgear BTA [https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html](https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html)
