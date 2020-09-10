@@ -25,7 +25,7 @@ As also stated in the [SMARTING User Manual](https://mbraintrain.com/wp-content/
 * cEEGrid Connectors [https://ceegrid.com/how-to-connect](http://ceegrid.com/home/how-to-connect/)
 * Female Jack Plug Socket
 
-The cEEGlace is intended to be used with cEEGrids the are available for example [here](https://shop.tmsi.com/product/ceegrid).
+The cEEGrid is intended to be used with cEEGrids the are available for example [here](https://shop.tmsi.com/product/ceegrid).
 
 ## The Neck Speaker
 The neck speaker serves primarily as a comfortable to wear mount for the 
