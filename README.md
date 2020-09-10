@@ -17,6 +17,8 @@ Hardware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20P-orange
 ## Before you Start
 Before you start, read carefully through the entire document.  Be aware that you will lose all manufacturer warranty if you modify the devices as described below. 
 
+As also stated in the SMARTING manual: Do not use the amplifier (i.e. the nEEGlace) while charging! 
+
 ## Components
 * Neckspeaker - JBL Soundgear BTA [https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html](https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html)
 * Smarting EEG Amplifier [https://mbraintrain.com/smarting/](https://mbraintrain.com/smarting/)
@@ -176,10 +178,9 @@ In combination with a small proprietary printed circuit board (PCB, shown below)
 a flat-ribbon cable and touch-proof (or similar) connectors, cEEGrids can be 
 connected to most available EEG systems. To facilitate soldering and lower the 
 risk of bridges we recommend removing every second pin before assembling the connector. 
-Beginning with Pin 1, you have to remove every 2n pin from the connector (see below).
+Beginning with Pin 1, you have to remove every 2nd pin from the connector (see below).
 
-
-If you want to reproduce or modify our connector, visit the fritzing website. 
+If you want to produce or modify our connector, visit the fritzing website. 
 [Download this file](http://ceegrid.com/download/smarting%20mit%20logo.fzz) for printing the PCB there. Alternatively, you can find the PCB desings [here](./cEEGrid-Adapter) as Gerber file. 
 
 | Prepare Connectors|
@@ -187,13 +188,18 @@ If you want to reproduce or modify our connector, visit the fritzing website.
 |![Prepare connectors](./img/cEEGridConnector.png  "Prepare Connectors")*Left: to lower the risk of bridges between channels, we recommend removing every second pin before assembling the conector. Right: The PCB and mini card sockets before and after assembly.*|
 
 
-* In our setup, channels R04a and R04b (i.e. right cEEGrid) serve as DRL and REF electrodes (in general you are free to choose their location)
+| Soldering Instruction|
+|--------|
+|![ Soldering Instruction](./img/Soldering_Connectors.pdf  "Soldering Instruction")*Schematic of channel configuration of amplifier board and cEEGrid connectors. Mark that the connectors for the left cEEGrid and right cEEGrid connector are inverted.*|
+
+* In our setup, channels R04a and R04b (i.e. right cEEGrid) serve as REF and DRL electrodes, respectively (in general you are free to choose the location of REF and DRL)
 
 
 ### Solder Connectors onto Amplifier. 
 The connector cables can be soldered onto either the front or the back of PCB board of the amplifier. 
-When you buy the smarting amplifier, the connector cables are on top. We place the cable from below. 
-This allows us to position the cables in the neck piece. 
+When you buy the smarting amplifier, the connector cables are on top. We place the cables from below. 
+This allows us to position the cables in the neck piece. The pin arrangement of the amplifier can also be found in the [SMARTING User Manual](https://mbraintrain.com/wp-content/uploads/2016/08/SMARTING-User-Manual.pdf). The schematic for connecting amplifier and connectors can be found [here](./img/Soldering_Connectors.pdf).
+
 
 * The connector cable should be about 5 cm long (A).
 * The cables are connected on the backside (B, bottom). 
