@@ -190,7 +190,7 @@ If you want to produce or modify our connector, visit the fritzing website.
 
 | Soldering Instruction|
 |--------|
-|![ Soldering Instruction](./img/Soldering_Connectors.pdf  "Soldering Instruction")*Schematic of channel configuration of amplifier board and cEEGrid connectors. Mark that the connectors for the left cEEGrid and right cEEGrid connector are inverted.*|
+|![ Soldering Instruction](./img/Soldering_Connectors.png  "Soldering Instruction")*Schematic of channel configuration of amplifier board and cEEGrid connectors. Mark that the connectors for the left cEEGrid and right cEEGrid connector are inverted. The schematic for connecting amplifier and connectors can be found [here](./img/Soldering_Connectors.pdf)*|
 
 * In our setup, channels R04a and R04b (i.e. right cEEGrid) serve as REF and DRL electrodes, respectively (in general you are free to choose the location of REF and DRL)
 
@@ -198,8 +198,7 @@ If you want to produce or modify our connector, visit the fritzing website.
 ### Solder Connectors onto Amplifier. 
 The connector cables can be soldered onto either the front or the back of PCB board of the amplifier. 
 When you buy the smarting amplifier, the connector cables are on top. We place the cables from below. 
-This allows us to position the cables in the neck piece. The pin arrangement of the amplifier can also be found in the [SMARTING User Manual](https://mbraintrain.com/wp-content/uploads/2016/08/SMARTING-User-Manual.pdf). The schematic for connecting amplifier and connectors can be found [here](./img/Soldering_Connectors.pdf).
-
+This allows us to position the cables in the neck piece. The pin arrangement of the amplifier can also be found in the [SMARTING User Manual](https://mbraintrain.com/wp-content/uploads/2016/08/SMARTING-User-Manual.pdf). 
 
 * The connector cable should be about 5 cm long (A).
 * The cables are connected on the backside (B, bottom). 
