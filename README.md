@@ -207,6 +207,7 @@ This allows us to position the cables in the neck piece. The pin arrangement of 
 * The battery will remain on the front (B, top).
 * Place the newly connected amplifier into the casing (C).
 * Place the amp cover (D), and screw it on with the original screws (D).
+* Cover the PCB board of the connector with shrink tubing to insulate the board
 
 | Add Connectors|
 |--------|
