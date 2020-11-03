@@ -8,7 +8,7 @@ This is the project repository for the: **nEEGlace - a mounting system for EEG h
 
 The nEEGlace is a system to record brain activity from electrodes located around the ears (cEEGrids). It is a combination of a commercial, research-grade EEG amplifier and a commercial neck speaker.  The system allows to conveniently record EEG over extended periods, and to play back sounds (e.g. for conducting studies in the field of auditory neuroscience).
 
-The associated Hardware Metapaper in the Journal of Open Hardware can be found here: [Building an Ear-EEG System by Hacking a Commercial Neck Speaker and a Commercial EEG Amplifier to Record Brain Activity Beyond the Lab] (https://openhardware.metajnl.com/article/10.5334/joh.25/)
+The associated Hardware Metapaper in the Journal of Open Hardware can be found here: [Building an Ear-EEG System by Hacking a Commercial Neck Speaker and a Commercial EEG Amplifier to Record Brain Activity Beyond the Lab](https://openhardware.metajnl.com/article/10.5334/joh.25/)
 
 Hardware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20P-orange.svg)](https://github.com/mgbleichner/nEEGlace/blob/master/LICENSE)  
 
