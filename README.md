@@ -185,7 +185,7 @@ risk of bridges we recommend removing every second pin before assembling the con
 Beginning with Pin 1, you have to remove every 2nd pin from the connector (see below).
 
 If you want to produce or modify our connector, visit the fritzing website. 
-[Download this file](http://ceegrid.com/download/smarting%20mit%20logo.fzz) for printing the PCB there. Alternatively, you can find the PCB desings [here](./cEEGrid-Adapter) as Gerber file. 
+[Download this file](https://uol.de/f/6/dept/psycho/cEEGrid/pdf/smarting_mit_logo.fzz) for printing the PCB there. Alternatively, you can find the PCB desings [here](./cEEGrid-Adapter) as Gerber file. 
 
 | Prepare Connectors|
 |--------|
