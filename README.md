@@ -6,7 +6,7 @@
 ## nEEGlace
 This is the project repository for the: **nEEGlace - a mounting system for EEG hardware for mobile ear-EEG recordings**
 
-The nEEGlace is a system to record brain activity from electrodes located around the ears (cEEGrids). It is a combination of a commercial, research-grade EEG amplifier and a commercial neck speaker.  The system allows to conveniently record EEG over extended periods, and to play back sounds (e.g. for conducting studies in the field of auditory neuroscience).
+The nEEGlace is a system to record brain activity from electrodes located around the ears (cEEGrids). You can learn more about the cEEGrids [here](https://uol.de/psychologie/abteilungen/ceegrid), and instruction on how to use the cEEGrids can be found [here](https://www.jove.com/de/v/64897/recording-brain-activity-with-ear-electroencephalography) or [here](https://uol.de/en/psychology/neurophysiology/resources/ceegrid-video-tutorial). The nEEGlace is a combination of a commercial, research-grade EEG amplifier and a commercial neck speaker.  The system allows to conveniently record EEG over extended periods, and to play back sounds (e.g. for conducting studies in the field of auditory neuroscience).
 
 The associated Hardware Metapaper in the Journal of Open Hardware can be found here: [Building an Ear-EEG System by Hacking a Commercial Neck Speaker and a Commercial EEG Amplifier to Record Brain Activity Beyond the Lab](https://openhardware.metajnl.com/article/10.5334/joh.25/)
 
@@ -19,15 +19,15 @@ Hardware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20P-orange
 ## Before you Start
 Before you start, read carefully through the entire document.  Be aware that you will lose all manufacturer warranty if you modify the devices as described below. 
 
-As also stated in the [SMARTING User Manual](https://mbraintrain.com/wp-content/uploads/2016/08/SMARTING-User-Manual.pdf): Do not use the amplifier (i.e. the nEEGlace) while charging! 
+As also stated in the [SMARTING User Manual](https://mbraintrain.com/wp-content/uploads/2016/08/SMARTING-User-Manual.pdf): Do not use the amplifier (i.e., the nEEGlace) while charging! 
 
 ## Components
 * Neckspeaker - JBL Soundgear BTA [https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html](https://www.jbl.com/bluetooth-speakers/JBL+SOUNDGEAR+BTA.html)
 * Smarting EEG Amplifier [https://mbraintrain.com/smarting/](https://mbraintrain.com/smarting/)
-* cEEGrid Connectors [https://ceegrid.com/how-to-connect](http://ceegrid.com/home/how-to-connect/)
+* cEEGrid Connectors [https://uol.de/neuropsychologie/howtoconnect](https://uol.de/neuropsychologie/howtoconnect)
 * Female Jack Plug Socket
 
-The cEEGrid is intended to be used with cEEGrids the are available for example [here](https://shop.tmsi.com/product/ceegrid).
+The cEEGrid is intended to be used with cEEGrids, the are available for example [here](https://shop.tmsi.com/product/).
 
 ## The Neck Speaker
 The neck speaker serves primarily as a comfortable to wear mount for the 
